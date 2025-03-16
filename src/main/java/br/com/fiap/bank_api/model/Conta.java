@@ -56,4 +56,7 @@ public class Conta {
         return tipo;
     }
 
+    public void setAtividade(boolean ativa) {
+        this.ativa = ativa;
+    }
 }
